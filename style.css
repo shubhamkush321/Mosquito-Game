@@ -1,0 +1,26 @@
+.playground{
+  position: relative;
+  background:url(mosquito\ set.jpg);
+  height: 600px;
+  width: 1100px;
+  float: left;
+}
+
+.mosquito{
+  position: relative;
+  width: 15%;
+  height: 20%;
+  object-fit: contain;
+}
+
+.heading{
+  margin:90px;
+  color: aquamarine;
+}
+.totalHit{
+  margin:80px;
+  gap: 10px;
+  padding-left:15px;
+  color: rgb(247, 40, 4);
+}
+
